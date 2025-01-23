@@ -1,6 +1,12 @@
-## b46 - Counter Snipe
+# B46 - Counter Snipe
+#### Status: Experimental
 
-### Experimental
+## Summary
 
-### Contents
+## Git Policies
 
+## Architecture
+
+## Contents
+
+## Creative Cases
