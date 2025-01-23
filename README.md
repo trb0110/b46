@@ -1,2 +1,6 @@
-# b46
-Solana Bot
+## b46 - Counter Snipe
+
+### Experimental
+
+### Contents
+
