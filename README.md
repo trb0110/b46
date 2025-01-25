@@ -16,6 +16,14 @@ The program is written in go for personal preference.
 
 ## Git Policies
 
+### Branch Structure
+
+- setup/* : All things setup related, like config, env vars, libraries, readme, etc ..
+- example/* : Building functions in isolation 
+- feature/<module_name>/* : Requirements as features categorized through module function
+- fix/<module_name>/* : Fixes in modules
+- test/<module_name>/* : Test cases 
+
 ## Architecture
 
 ## Contents
