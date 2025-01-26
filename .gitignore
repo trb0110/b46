@@ -24,5 +24,7 @@ go.mod
 go.sum
 # env file
 .env
+.env.dev
 
 */.env
+*/.env.dev
