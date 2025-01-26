@@ -1,8 +1,8 @@
 package main
 
 import (
+	"b46/b46"
 	"log"
-	"neoGo/trading/b46/b46"
 )
 
 func main() {
