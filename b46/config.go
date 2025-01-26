@@ -20,7 +20,7 @@ var Env *Enviro
 func NewEnviroSetup() *Enviro {
 	err := godotenv.Load()
 	if err != nil {
-		log.Println("Error loading .env file")
+		log.Println("Error loading .env file: " + err.Error())
 	}
 
 	Env = &Enviro{
