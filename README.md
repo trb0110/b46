@@ -3,6 +3,8 @@
 
 ## Summary
 
+-------
+
 The genesis of sniping bots exemplifies the market's ability to self-regulate in a dynamic and fast paced environment.
 Over the years, the web3 and chain space has garnered a tremendous amount of attention driven by several factors,
 some of which simple and others complex. 
@@ -16,6 +18,8 @@ The program is written in go for personal preference.
 
 ## Git Policies
 
+-------
+
 ### Branch Structure
 
 - setup/* : All things setup related, like config, env vars, libraries, readme, etc ..
@@ -26,9 +30,18 @@ The program is written in go for personal preference.
 
 ## Architecture
 
+-------
+
+
 ## Contents
 
+-------
+
+
+
 ### Buy Me A Coffee
+
+-------
 
 * BTC address: bc1qzygvy9cenlg35jkcqh60ff6208nz3c5ldhlr0e
 * Solana address: Ek2HgHAKApPmkCzH438zVjzmr4yQrE3MRgxREUepBU4k
