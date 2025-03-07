@@ -27,3 +27,9 @@ The program is written in go for personal preference.
 ## Architecture
 
 ## Contents
+
+### Buy Me A Coffee
+
+* BTC address: bc1qzygvy9cenlg35jkcqh60ff6208nz3c5ldhlr0e
+* Solana address: Ek2HgHAKApPmkCzH438zVjzmr4yQrE3MRgxREUepBU4k
+* TRON address: TQvoLowWPr6Q2Vs8dVJpzxK5vPYrmUbBuy
