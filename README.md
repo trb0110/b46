@@ -39,6 +39,12 @@ The program is written in go for personal preference.
 
 
 
+### Inspiration
+
+-------
+
+[Ake Python Trading Bot](https://github.com/chainstacklabs/pump-fun-bot)
+
 ### Buy Me A Coffee
 
 -------
