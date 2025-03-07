@@ -43,7 +43,7 @@ The program is written in go for personal preference.
 
 -------
 
-[Ake Python Trading Bot](https://github.com/chainstacklabs/pump-fun-bot)
+<a href="https://github.com/chainstacklabs/pump-fun-bot" target="_blank">Ake Python Trading Bot</a>
 
 ### Buy Me A Coffee
 
