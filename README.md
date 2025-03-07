@@ -1,4 +1,7 @@
 # B46 - Counter Snipe
+
+<img src="./logo.png" alt="My Image" width="300" style="border-radius: 15px;">
+
 #### Status: Experimental
 
 ## Summary
