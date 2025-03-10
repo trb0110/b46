@@ -97,10 +97,6 @@ func main() {
 
 	fmt.Println(account)
 
-	// 6) Now convert each token to SOL
-	//    We must fetch:
-	//      a) the token mint’s decimals
-	//      b) the price in SOL (or fetch price in USD and convert USD->SOL).
 	for _, tk := range account.Tokens {
 		mint := tk.Token.Mint
 		// Derive the bonding curve address (and get the bump seed).
@@ -159,15 +155,6 @@ func getMintDecimals(client *rpc.Client, mint solana.PublicKey) (uint8, error) {
 	}
 
 	return mintAccount.Decimals, nil
-}
-
-// getTokenPriceInSOL is a placeholder for how you'd get the token price in SOL.
-// Realistically, you'd query an oracle (Switchboard / Pyth), a DEX aggregator, or
-// some third-party API that provides price data in SOL or in USD then convert to SOL.
-func getTokenPriceInSOL(mint solana.PublicKey) (float64, error) {
-	// Example: For demonstration, every token is worth 0.0001 SOL
-	// Replace with real logic: fetch from a price feed or aggregator
-	return 0.0001, nil
 }
 
 // CalculatePumpCurvePrice calculates the price of the token in SOL based on the bonding curve state
