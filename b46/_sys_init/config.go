@@ -1,4 +1,4 @@
-package b46
+package _sys_init
 
 import (
 	"github.com/joho/godotenv"
