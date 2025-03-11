@@ -1,0 +1,128 @@
+#,#,#,#,#,#,#,#,#,#,#,#,#
+MONITOR,AfsjhQS57Fxs8LdD2yQkogVXsJagcY2B6jnZpESspump,The Top Is In,The Top,2025-02-24 18:50:59.92127 +0200 EET m=+27.866773444,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1008810769230770,  RealTokenReserves: 728910769230770,  VirtualSolReserves: 31908858413,  RealSolReserves: 1908858413}, TokenPrice: 0.00000003163017226445, MarketCap: 31.63}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 995490097691745,  RealTokenReserves: 715590097691745,  VirtualSolReserves: 32335831442,  RealSolReserves: 2335831442}, TokenPrice: 0.00000003248232354795, MarketCap: 32.48}
+]",false
+#,#,#,#,#,#,#,#,#,#,#,#,#
+MONITOR,AfsjhQS57Fxs8LdD2yQkogVXsJagcY2B6jnZpESspump,The Top Is In,The Top,2025-02-24 18:51:03.217367 +0200 EET m=+31.162804022,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1008810769230770,  RealTokenReserves: 728910769230770,  VirtualSolReserves: 31908858413,  RealSolReserves: 1908858413}, TokenPrice: 0.00000003163017226445, MarketCap: 31.63}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 995490097691745,  RealTokenReserves: 715590097691745,  VirtualSolReserves: 32335831442,  RealSolReserves: 2335831442}, TokenPrice: 0.00000003248232354795, MarketCap: 32.48}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1071515088612895,  RealTokenReserves: 791615088612895,  VirtualSolReserves: 30041574166,  RealSolReserves: 41574166}, TokenPrice: 0.00000002803653862205, MarketCap: 28.04}
+]",false
+MONITOR,kviH3mvMwhfHNssrkVM6wSavikryv4vLrWB3oosYrKH,Grok X Latest,GROKX,2025-02-24 18:51:09.733031 +0200 EET m=+37.678336547,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 842669718692691,  RealTokenReserves: 562769718692691,  VirtualSolReserves: 38200019874,  RealSolReserves: 8200019874}, TokenPrice: 0.00000004533213787872, MarketCap: 45.33}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915966088566238,  RealTokenReserves: 636066088566238,  VirtualSolReserves: 35143222446,  RealSolReserves: 5143222446}, TokenPrice: 0.00000003836738377619, MarketCap: 38.37}
+]",false
+MONITOR,LAZ5WvQkbnHX3kWLTEmn5JG4oo6sxcgAnEh6vLZozAz,Understand Universe,U-VERSE,2025-02-24 18:51:17.146181 +0200 EET m=+45.091337688,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1033388079521501,  RealTokenReserves: 753488079521501,  VirtualSolReserves: 31149962575,  RealSolReserves: 1149962575}, TokenPrice: 0.00000003014352806297, MarketCap: 30.14}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1035059671521501,  RealTokenReserves: 755159671521501,  VirtualSolReserves: 31099656272,  RealSolReserves: 1099656272}, TokenPrice: 0.00000003004624479890, MarketCap: 30.05}
+]",false
+MONITOR,CHWfcUSuiSPyH1ocj81TV8ifceSPkH1seh3svcn9kVq9,LONG LIVE THE REAL KJING,LLTRK,2025-02-24 18:51:21.874955 +0200 EET m=+49.820016049,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 967537459161824,  RealTokenReserves: 687637459161824,  VirtualSolReserves: 33270029698,  RealSolReserves: 3270029698}, TokenPrice: 0.00000003438629624410, MarketCap: 34.39}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 984704802691955,  RealTokenReserves: 704804802691955,  VirtualSolReserves: 32690000002,  RealSolReserves: 2690000002}, TokenPrice: 0.00000003319776638911, MarketCap: 33.20}
+]",false
+MONITOR,AjnZ4iZ8JirL7saddHPMBnyYo8oXsKqHEXQNJR6nPNZt,LONG LIVE THE REAL KING,LLTRK,2025-02-24 18:51:24.2506 +0200 EET m=+52.195613834,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 975454545454546,  RealTokenReserves: 695554545454546,  VirtualSolReserves: 33000000000,  RealSolReserves: 3000000000}, TokenPrice: 0.00000003383038210624, MarketCap: 33.83}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1073000000000000,  RealTokenReserves: 793100000000000,  VirtualSolReserves: 30000000001,  RealSolReserves: 1}, TokenPrice: 0.00000002795899347717, MarketCap: 27.96}
+]",false
+MONITOR,13sbL3JJqXRx6KPUmK1HvbrtLjGPorG9Sy427sEmpump,SpongeBob Marley,SBMRL,2025-02-24 18:51:26.940026 +0200 EET m=+54.884985812,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1065512070595746,  RealTokenReserves: 785612070595746,  VirtualSolReserves: 30210826220,  RealSolReserves: 210826220}, TokenPrice: 0.00000002835334019549, MarketCap: 28.35}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1065512070595746,  RealTokenReserves: 785612070595746,  VirtualSolReserves: 30210826220,  RealSolReserves: 210826220}, TokenPrice: 0.00000002835334019549, MarketCap: 28.35}
+]",false
+#,#,#,#,#,#,#,#,#,#,#,#,#
+MONITOR,3ypzPJmffCzUjnGPm8ZsbjKTAYGF6NeStjkjM7qkpump,booga,booga,2025-02-24 18:51:37.676742 +0200 EET m=+65.621485282,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 922653439859400,  RealTokenReserves: 642753439859400,  VirtualSolReserves: 34888505930,  RealSolReserves: 4888505930}, TokenPrice: 0.00000003781322913110, MarketCap: 37.81}
+]",false
+MONITOR,Mx63BYcN4g3ouhSxEWZwpyF835xgjGRHT8J9BAXpump,Jeetward,Jeetward,2025-02-24 18:51:42.366166 +0200 EET m=+70.310815114,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 940060633467412,  RealTokenReserves: 660160633467412,  VirtualSolReserves: 34242472089,  RealSolReserves: 4242472089}, TokenPrice: 0.00000003642581219756, MarketCap: 36.43}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 933734706247093,  RealTokenReserves: 653834706247093,  VirtualSolReserves: 34474460241,  RealSolReserves: 4474460241}, TokenPrice: 0.00000003692104407210, MarketCap: 36.92}
+]",false
+MONITOR,CHWfcUSuiSPyH1ocj81TV8ifceSPkH1seh3svcn9kVq9,LONG LIVE THE REAL KJING,LLTRK,2025-02-24 18:51:33.671275 +0200 EET m=+61.616099229,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 967537459161824,  RealTokenReserves: 687637459161824,  VirtualSolReserves: 33270029698,  RealSolReserves: 3270029698}, TokenPrice: 0.00000003438629624410, MarketCap: 34.39}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 984704802691955,  RealTokenReserves: 704804802691955,  VirtualSolReserves: 32690000002,  RealSolReserves: 2690000002}, TokenPrice: 0.00000003319776638911, MarketCap: 33.20}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1071428870721536,  RealTokenReserves: 791528870721536,  VirtualSolReserves: 30043991610,  RealSolReserves: 43991610}, TokenPrice: 0.00000002804105100301, MarketCap: 28.04}
+]",false
+MONITOR,CKTvS4YscxZ4RhKohKL6UHK4k3jhQCtduMm2pVR9pump,take this holy en†ry,entry,2025-02-24 18:51:49.686729 +0200 EET m=+77.631230428,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1038387096774194,  RealTokenReserves: 758487096774194,  VirtualSolReserves: 31000000001,  RealSolReserves: 1000000001}, TokenPrice: 0.00000002985399192392, MarketCap: 29.85}
+]",false
+MONITOR,LAZ5WvQkbnHX3kWLTEmn5JG4oo6sxcgAnEh6vLZozAz,Understand Universe,U-VERSE,2025-02-24 18:51:33.507781 +0200 EET m=+61.452608605,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1033388079521501,  RealTokenReserves: 753488079521501,  VirtualSolReserves: 31149962575,  RealSolReserves: 1149962575}, TokenPrice: 0.00000003014352806297, MarketCap: 30.14}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1035059671521501,  RealTokenReserves: 755159671521501,  VirtualSolReserves: 31099656272,  RealSolReserves: 1099656272}, TokenPrice: 0.00000003004624479890, MarketCap: 30.05}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1035059671521501,  RealTokenReserves: 755159671521501,  VirtualSolReserves: 31099656272,  RealSolReserves: 1099656272}, TokenPrice: 0.00000003004624479890, MarketCap: 30.05}
+]",false
+MONITOR,13sbL3JJqXRx6KPUmK1HvbrtLjGPorG9Sy427sEmpump,SpongeBob Marley,SBMRL,2025-02-24 18:51:34.276037 +0200 EET m=+62.220849360,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1065512070595746,  RealTokenReserves: 785612070595746,  VirtualSolReserves: 30210826220,  RealSolReserves: 210826220}, TokenPrice: 0.00000002835334019549, MarketCap: 28.35}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1065512070595746,  RealTokenReserves: 785612070595746,  VirtualSolReserves: 30210826220,  RealSolReserves: 210826220}, TokenPrice: 0.00000002835334019549, MarketCap: 28.35}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1064455043850335,  RealTokenReserves: 784555043850335,  VirtualSolReserves: 30240826220,  RealSolReserves: 240826220}, TokenPrice: 0.00000002840967910736, MarketCap: 28.41}
+]",false
+MONITOR,A6b3Lr36EzFBSCHfXGC485bWtWY3XeRdMwCNzp9Vpump,"45.4500° N, -121.8333° W.",Bull Run,2025-02-24 18:51:41.601334 +0200 EET m=+69.545998044,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 994273842000001,  RealTokenReserves: 714373842000001,  VirtualSolReserves: 32375386579,  RealSolReserves: 2375386579}, TokenPrice: 0.00000003256184082433, MarketCap: 32.56}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1005937500000001,  RealTokenReserves: 726037500000001,  VirtualSolReserves: 32000000001,  RealSolReserves: 2000000001}, TokenPrice: 0.00000003181112146729, MarketCap: 31.81}
+]",false
+MONITOR,kviH3mvMwhfHNssrkVM6wSavikryv4vLrWB3oosYrKH,Grok X Latest,GROKX,2025-02-24 18:51:33.376117 +0200 EET m=+61.320946875,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 842669718692691,  RealTokenReserves: 562769718692691,  VirtualSolReserves: 38200019874,  RealSolReserves: 8200019874}, TokenPrice: 0.00000004533213787872, MarketCap: 45.33}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915966088566238,  RealTokenReserves: 636066088566238,  VirtualSolReserves: 35143222446,  RealSolReserves: 5143222446}, TokenPrice: 0.00000003836738377619, MarketCap: 38.37}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915980894672099,  RealTokenReserves: 636080894672099,  VirtualSolReserves: 35142654384,  RealSolReserves: 5142654384}, TokenPrice: 0.00000003836614342986, MarketCap: 38.37}
+]",false
+ADD,kviH3mvMwhfHNssrkVM6wSavikryv4vLrWB3oosYrKH,Grok X Latest,GROKX,2025-02-24 18:51:33.376117 +0200 EET m=+61.320946875,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 842669718692691,  RealTokenReserves: 562769718692691,  VirtualSolReserves: 38200019874,  RealSolReserves: 8200019874}, TokenPrice: 0.00000004533213787872, MarketCap: 45.33}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915966088566238,  RealTokenReserves: 636066088566238,  VirtualSolReserves: 35143222446,  RealSolReserves: 5143222446}, TokenPrice: 0.00000003836738377619, MarketCap: 38.37}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915980894672099,  RealTokenReserves: 636080894672099,  VirtualSolReserves: 35142654384,  RealSolReserves: 5142654384}, TokenPrice: 0.00000003836614342986, MarketCap: 38.37}
+]",true
+MONITOR,AdeJZnaXtxhcSQVo8VJFNx5bXcjF3xPR3sftxvenpump,Brian Meilinger,BrianM,2025-02-24 18:51:52.215527 +0200 EET m=+80.159977828,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1069584654057974,  RealTokenReserves: 789684654057974,  VirtualSolReserves: 30095794551,  RealSolReserves: 95794551}, TokenPrice: 0.00000002813783316432, MarketCap: 28.14}
+]",false
+MONITOR,AfsjhQS57Fxs8LdD2yQkogVXsJagcY2B6jnZpESspump,The Top Is In,The Top,2025-02-24 18:51:33.236397 +0200 EET m=+61.181229893,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1008810769230770,  RealTokenReserves: 728910769230770,  VirtualSolReserves: 31908858413,  RealSolReserves: 1908858413}, TokenPrice: 0.00000003163017226445, MarketCap: 31.63}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 995490097691745,  RealTokenReserves: 715590097691745,  VirtualSolReserves: 32335831442,  RealSolReserves: 2335831442}, TokenPrice: 0.00000003248232354795, MarketCap: 32.48}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1071515088612895,  RealTokenReserves: 791615088612895,  VirtualSolReserves: 30041574166,  RealSolReserves: 41574166}, TokenPrice: 0.00000002803653862205, MarketCap: 28.04}
+  3: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1071515088612895,  RealTokenReserves: 791615088612895,  VirtualSolReserves: 30041574166,  RealSolReserves: 41574166}, TokenPrice: 0.00000002803653862205, MarketCap: 28.04}
+]",false
+MONITOR,41NLD7GTfiwxMnw6wdmwqHJmyQXL7LY6XTZhtjKgyvTn,McDonald's Official Coin,MacCoin,2025-02-24 18:51:49.541261 +0200 EET m=+77.485765350,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+]",false
+MONITOR,Dpi1aQzK8gMKwEn3CiGGADafYJxJkcJNH9hV98Wppump,Dumb Money,DUMB,2025-02-24 18:51:47.209996 +0200 EET m=+75.154547670,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1045129870130720,  RealTokenReserves: 765229870130720,  VirtualSolReserves: 30800000000,  RealSolReserves: 800000000}, TokenPrice: 0.00000002947002174586, MarketCap: 29.47}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1045129870130720,  RealTokenReserves: 765229870130720,  VirtualSolReserves: 30800000000,  RealSolReserves: 800000000}, TokenPrice: 0.00000002947002174586, MarketCap: 29.47}
+]",false
+MONITOR,GbCzRWcRbqGevztUFDqHabUDe66pzv6LHwLrFeXDpump,GIGASAYLOR,GIGASAYLOR,2025-02-24 18:51:34.765968 +0200 EET m=+62.710770266,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1071428870721536,  RealTokenReserves: 791528870721536,  VirtualSolReserves: 30043991611,  RealSolReserves: 43991611}, TokenPrice: 0.00000002804105100394, MarketCap: 28.04}
+]",false
+MONITOR,FznvKJeQE7wxGK8pvTpb8e46N9RCuJEBTDxrmMitpump,Desperation,DESPAIR,2025-02-24 18:51:52.378618 +0200 EET m=+80.323065355,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1051960784313726,  RealTokenReserves: 772060784313726,  VirtualSolReserves: 30600000001,  RealSolReserves: 600000001}, TokenPrice: 0.00000002908853681363, MarketCap: 29.09}
+]",false
+MONITOR,CJdL6R6SoUJ3QkcWhH3wSv9mpy1VTtNGsv7b8Q17pump,Your Job Assistant at McDonald's,SAM,2025-02-24 18:51:52.676249 +0200 EET m=+80.620690311,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1001153464055441,  RealTokenReserves: 721253464055441,  VirtualSolReserves: 32152912773,  RealSolReserves: 2152912773}, TokenPrice: 0.00000003211586827334, MarketCap: 32.12}
+]",false
+MONITOR,AjnZ4iZ8JirL7saddHPMBnyYo8oXsKqHEXQNJR6nPNZt,LONG LIVE THE REAL KING,LLTRK,2025-02-24 18:51:34.024305 +0200 EET m=+61.969121922,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 975454545454546,  RealTokenReserves: 695554545454546,  VirtualSolReserves: 33000000000,  RealSolReserves: 3000000000}, TokenPrice: 0.00000003383038210624, MarketCap: 33.83}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1073000000000000,  RealTokenReserves: 793100000000000,  VirtualSolReserves: 30000000001,  RealSolReserves: 1}, TokenPrice: 0.00000002795899347717, MarketCap: 27.96}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1072285190876703,  RealTokenReserves: 792385190876703,  VirtualSolReserves: 30019998668,  RealSolReserves: 19998668}, TokenPrice: 0.00000002799628207441, MarketCap: 28.00}
+]",false
+MONITOR,6N2zaQzbtKWZMxf9re4B6fVekBiZcaC1QbfNPi1Ppump,Solana,SOL,2025-02-24 18:51:49.857818 +0200 EET m=+77.802316628,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1068720051529574,  RealTokenReserves: 788820051529574,  VirtualSolReserves: 30120142272,  RealSolReserves: 120142272}, TokenPrice: 0.00000002818337901389, MarketCap: 28.18}
+]",false
+MONITOR,AP3TBDdagRBpwR9aXwvMWE3uuvNcs5nefMbC7Ycepump,YERIO,YERIO,2025-02-24 18:51:35.301369 +0200 EET m=+63.246160728,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1015941347456430,  RealTokenReserves: 736041347456430,  VirtualSolReserves: 31684900001,  RealSolReserves: 1684900001}, TokenPrice: 0.00000003118772563035, MarketCap: 31.19}
+]",false
+MONITOR,JDskNudNrKJFGmzcGN1guyqAUfUVqQhnE2B9wB3kpump,FIRST MCDONALDS COIN,McCoin,2025-02-24 18:51:35.103784 +0200 EET m=+63.048578785,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1038387096774194,  RealTokenReserves: 758487096774194,  VirtualSolReserves: 31000000001,  RealSolReserves: 1000000001}, TokenPrice: 0.00000002985399192392, MarketCap: 29.85}
+]",false
+MONITOR,HbgD3hRxtNnzL6JAEjVghhgArfqtXmdXi7miVZ72pump,Pump Or McDonalds,POM,2025-02-24 18:51:52.552384 +0200 EET m=+80.496827894,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 1063957070190221,  RealTokenReserves: 784057070190221,  VirtualSolReserves: 30254980116,  RealSolReserves: 254980116}, TokenPrice: 0.00000002843627902260, MarketCap: 28.44}
+]",false
+MONITOR,3VfL4Y4HdfTtSuMHB7uy5vWS555EQrWjFuk6Uz21pump,"17.625444,-63.25132,14.75",THEBOTTOM,2025-02-24 18:52:01.647491 +0200 EET m=+89.591752489,"[
+  0: MemeInfo{BondingState: nil, TokenPrice: 0.00000000000000000000, MarketCap: 0.00}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 999776544373575,  RealTokenReserves: 719876544373575,  VirtualSolReserves: 32197194645,  RealSolReserves: 2197194645}, TokenPrice: 0.00000003220439089734, MarketCap: 32.20}
+]",false
