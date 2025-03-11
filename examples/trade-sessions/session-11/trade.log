@@ -1,0 +1,13 @@
+#,#,#,#,#,#,#,#,#,#,#,#,#
+#,#,#,#,#,#,#,#,#,#,#,#,#
+#,#,#,#,#,#,#,#,#,#,#,#,#
+#,#,#,#,#,#,#,#,#,#,#,#,#
+#,#,#,#,#,#,#,#,#,#,#,#,#
+#,#,#,#,#,#,#,#,#,#,#,#,#
+#,#,#,#,#,#,#,#,#,#,#,#,#
+CURRENTLY TRADING,kviH3mvMwhfHNssrkVM6wSavikryv4vLrWB3oosYrKH,Grok X Latest,GROKX,2025-02-24 18:52:04.663595 +0200 EET m=+92.607795709,"[
+  0: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 842669718692691,  RealTokenReserves: 562769718692691,  VirtualSolReserves: 38200019874,  RealSolReserves: 8200019874}, TokenPrice: 0.00000004533213787872, MarketCap: 45.33}
+  1: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915966088566238,  RealTokenReserves: 636066088566238,  VirtualSolReserves: 35143222446,  RealSolReserves: 5143222446}, TokenPrice: 0.00000003836738377619, MarketCap: 38.37}
+  2: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915980894672099,  RealTokenReserves: 636080894672099,  VirtualSolReserves: 35142654384,  RealSolReserves: 5142654384}, TokenPrice: 0.00000003836614342986, MarketCap: 38.37}
+  3: MemeInfo{BondingState: BondingCurveState{CurrentSupply: 1000000000000000, VirtualTokenReserves: 915980894672099,  RealTokenReserves: 636080894672099,  VirtualSolReserves: 35142654384,  RealSolReserves: 5142654384}, TokenPrice: 0.00000003836614342986, MarketCap: 38.37}
+]",false,false
