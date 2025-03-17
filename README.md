@@ -36,6 +36,8 @@ The program is written in go for personal preference.
 -------
 
 
+<img src="./arch.png" alt="My Image" width="600" style="border-radius: 15px;">
+
 ## Contents
 
 -------
